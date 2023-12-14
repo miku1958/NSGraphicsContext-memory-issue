@@ -1,4 +1,4 @@
-In M3 macbook, using NSGraphicsContext.current will casue the memory has increased by 400MB and drops after drawing
+In M3 macbook(It's only M3, I've tested it on multiple devices, it has nothing to do with resolution or os version), using NSGraphicsContext.current will casue the memory has increased by 400MB and drops after drawing
 <img width="800" alt="image" src="https://github.com/miku1958/NSGraphicsContext-memory-issue/assets/24806909/377b1b5f-0d14-4ed8-b071-5afb1dca0224">
 
 
